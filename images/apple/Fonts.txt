@@ -1,0 +1,3 @@
+FONTS:
+
+- Arvo by Anton Koovit: http://www.fontsquirrel.com/fonts/arvo
